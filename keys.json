@@ -1,2 +1,13 @@
-"Hello":"Hello there!",
-"How are you":"I'm fine, thanks! What about you?"
+{
+    "answers": [
+        {
+            "Q":"Hello",
+            "A":"Hello there!"
+        },
+        {
+            "Q":"How are u?",
+            "A":"I'm fine! What about u?"
+        }
+    ]
+    
+}

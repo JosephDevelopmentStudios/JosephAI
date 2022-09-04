@@ -8,6 +8,9 @@
             "Q":"How are u?",
             "A":"I'm fine! What about u?"
         }
+    ],
+    "conversions": [
+        " you ":" u "
     ]
     
 }
